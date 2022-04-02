@@ -2,3 +2,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# General Mac invisibles
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
