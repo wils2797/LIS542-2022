@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assignment num='4.5' point_value='9' due_day='24' due_month='April' due_year='2022'>
+    <comic_strip title="Peanuts" author="Charles Shulz" day='11' month='May' year='1957'>
+        <panel num='1'>
+            <text type='dialogue' origin='Charlie Brown'>
+                PEOPLE COME AND PEOPLE GO. BUT THE EARTH KEEPS ON SPINNING..
+            </text>
+        </panel>
+        <panel num='2'>
+            <text type='dialogue' origin='Lucy van Pelt'>
+                "SPINNING"? WHAT DO YOU MEAN. "SPINNING"?
+            </text>
+            <text type='dialogue' origin='Charlie Brown'>
+                SPINNING THROUGH SPACE..THE EARTH KEEPS SPINNING THROUGH SPACE..
+            </text>
+        </panel>
+        <panel num='3'>
+            <text type='exclamation' origin='Lucy van Pelt'>
+                HAHAHAHAHA!!!
+            </text>
+            <text type='dialogue' origin='Charlie Brown'>
+                ?
+            </text>
+        </panel>
+        <panel num='4'>
+            <text type='dialogue' origin='Lucy van Pelt'>
+                OH. MY. CHARLIE BROWN! YOU MAY NOT BE THE BRIGHTEST PERSON IN THE WORLD BUT YOU SURE HAVE SOME IMAGINATION!
+            </text>
+            <text type='dialogue' origin='Charlie Brown'>
+                good grief!
+            </text>
+        </panel>
+    </comic_strip>
+    <comic_strip title="For Better or For Worse" author="Lynn Johnston" day='28' month='May' year='2018'>
+        <panel num='1'>
+            <text type='action' origin='John Patterson' desc='Slams door shut'>
+                SLAM!
+            </text>
+        </panel>
+        <panel num='2'>
+            <text type='action' origin='John Patterson'>
+                SLAM! WHAM! BANG!!
+            </text>
+        </panel>
+        <panel num='3'>
+            <text type='action' origin='John Patterson' desc='Slams door shut'>
+                SLAM!
+            </text>
+        </panel>
+        <panel num='4'>
+            <text type='dialogue' origin='Elly Patterson'>
+                A LITTLE TESTY THIS MORNING ARE WE?!!
+            </text>
+        </panel>
+    </comic_strip>
+    <comic_strip title="Nancy Classics" author="Ernie Bushmille" day='16' month='August' year='2021'>
+        <panel num='1'>
+            <text type='dialogue' origin='Fritzi Ritz'>
+                NANCY---I BOUGHT YOU A WHOLE JAR OF COOKIES ALL FOR YOURSELF
+            </text>
+        </panel>
+        <panel num='2'>
+            <text type='dialogue' origin='Fritzi Ritz'>
+                THAT's ODD--- SHE"S NOT EATING THEM
+            </text>
+        </panel>
+        <panel num='3'>
+        </panel>
+        <panel num='4'>
+            <text type='dialogue' origin='Nancy Ritz'>
+                I ENJOY THEM MORE THIS WAY
+            </text>
+        </panel>
+    </comic_strip>
+    <comic_strip title="Spiderman" author="Stan Lee and Larry Liebe" day='30' month='November' year='1980'>
+        <panel num='1'>
+            <text type='dialogue' origin='Bank Teller'>
+                ANY IDENTIFICATION?
+            </text>
+            <text type='dialogue' origin='Spiderman'>
+                LOOK AT MY COSTUME! WHO DO YOU THINK I AM?!!
+            </text>
+            <text type='dialogue' origin='Bank Teller'>
+                ANYONE CAN RENT A COSTUME!
+            </text>
+        </panel>
+        <panel num='2'>
+            <text type='dialogue' origin='Bank Teller'>
+                DRIVER'S LICENSE? SOCIAL SECURITY?
+            </text>
+            <text type='dialogue' origin='Spiderman'>
+                LOOK! I'VE A SECRET IDENTITY! I CAN'T BLOW MY COVER!
+            </text>
+        </panel>
+        <panel num='3'>
+            <text type='dialogue' origin='Bank Teller'>
+                AND WE CAN'T CASH JUST ANY OLD CHECK!
+            </text>
+            <text type='dialogue' origin='Bank Teller'>
+                AND YOU'RE HOLDING UP THE LINE!
+            </text>
+        </panel>
+        <panel num='4'>
+            <text type='dialogue' origin='Spiderman'>
+                I FINALLY GET $2,000-- AND I CAN'T CASH THE CHECK!
+            </text>
+            <text type='dialogue' origin='Spiderman'>
+                O.K.! THERE'S ONLY ONE THING LEFT TO DO!
+            </text>
+        </panel>
+    </comic_strip>
+</assignment>
