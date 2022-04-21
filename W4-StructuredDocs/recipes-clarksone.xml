@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <title>Butter Beans, Paprika and Piquillo Peppers</title>
+
+    <section n="1" type="introduction">These beans are great in salads. Let the mix cool and then toss through a selection of salad leaves and herbs. Perk up the leaves with a little olive oil and vinegar and some crispy lavash on top.</section>
+    
+    <section n="2" type="ingredient list">
+        <section_header>Ingredients</section_header>
+        <yield quantity="4">Serves 4</yield>
+        <ingredient n="1" quantity="3" unit="count">3 red onions, <preparation>diced</preparation></ingredient>
+        <ingredient n="2" quantity="125" unit="milliliters">125 ml (about ½ cup) extra-virgin olive oil, divided</ingredient>
+        <ingredient n="3" quantity="4" unit="count" unit_detail="cloves" preparation="finely sliced">4 garlic cloves,
+            finely sliced</ingredient>
+        <ingredient_group category="spices">
+            <ingredient n="4" quantity="1" unit="tablespoons">1 Tbsp. dried chile flakes 
+            <specification>(preferably pul biber)</specification></ingredient>
+        <ingredient n="5" quantity="1.5" unit="tablespoons">1 1⁄2 Tbsp. sweet smoked paprika</ingredient></ingredient_group>
+        <ingredient n="6" quantity="1" unit="tablespoons">1 Tbsp. tomato purée</ingredient>
+        <ingredient n="7" quantity="2" unit="count" unit_detail="14 oz. can" preparation="drained and rinsed">2 14-oz. cans butter beans or lima beans, drained and rinsed</ingredient>
+        <ingredient n="8" quantity="5" unit="tablespoons">5 Tbsp. sherry vinegar</ingredient>
+        <ingredient n="9" quantity="300" unit="grams" preparation="rinsed and sliced">300g (10 1/2-oz.) jarred piquillo peppers,
+            rinsed and sliced</ingredient>
+        <ingredient n="10" quantity="not specified">Kosher salt</ingredient></section>
+    
+   <section n="3" type="instructions">
+       <step_label n="1">Step 1</step_label>
+       <step n="1">In a <equipment>wide-based pan</equipment> over a medium heat, caramelize the <ingredient n="1" quantity="3" unit="count">red onions</ingredient> in <ingredient n="2" quantity="5" unit="tablespoons">5 Tbsp. of the olive oil</ingredient> for <cook_time quantity="15" unit="minutes">15 minutes</cook_time> or <cook_objective type="visual change" description="golden color">until they turn golden and soft</cook_objective>. Add <ingredient n="10" quantity="0.25" unit="teaspoons">a little fine salt</ingredient>, the <ingredient n="3" quantity="4" unit="count" unit_detail="cloves" preparation="finely sliced">garlic</ingredient> and <ingredient_group category="spices">spices</ingredient_group> and continue to cook for <cook_time quantity="15" unit="minutes">2–3 minutes</cook_time>. Add the <ingredient n="6" quantity="1" unit="tablespoons">tomato purée</ingredient> and cook for <cook_time quantity="1" unit="minutes">another minute</cook_time>.</step>
+   <step_label n="2">Step 2</step_label>
+       <step n="2">Add the <ingredient n="7" quantity="2" unit="count" unit_detail="14 oz. can" preparation="drained and rinsed">beans</ingredient> and <ingredient n="8"  quantity="5" unit="tablespoons">sherry vinegar</ingredient> and <cook_objective type="size change" description="volume reduced by half">reduce the liquid by half</cook_objective> over a medium heat. Turn the heat off. Add the <ingredient n="9" quantity="300" unit="grams" preparation="rinsed and sliced">piquillo peppers</ingredient> and the remaining <ingredient n="2" quantity="50" unit="milliliter">olive oil</ingredient> and season with <ingredient n="10">salt</ingredient> to serve.</step></section> 
+
+    <section n="4" type="citation">From <source_name>Three: Acid, Texture, Contrast</source_name> by <author>Selin Kiazim</author>.
+        <permissions>Copyright © December 2021 by Selin Kiazim. Excerpted by permission of Quadrille.</permissions> 
+        Buy the book from Amazon or Bookshop.</section>
+</recipe>
