@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+<title>Butter Beans, Paprika and Piquillo Peppers (2)</title>
+<introduction>
+These beans are great in salads. Let the mix cool and then toss through a selection of salad leaves and herbs. Perk up the leaves with a little olive oil and vinegar and some crispy lavash on top.
+</introduction>
+    <header>Ingredients</header>
+<serving size="Serves 4"/>
+<ingredientlist n="10">
+<l n="1"> <unit measurement1="3"/> <ingredient type="red onions, diced"/></l>
+<l n="2"> <unit measurement1="125 ml"/> <unit measurement2="(about ½ cup)"/> <ingredient type="extra-virgin olive oil, divided"/></l>
+<l n="3"> <unit measurement1="4"/> <ingredient type="garlic cloves, finely sliced"/></l>
+<l n="4"> <unit measurement1="1 Tbsp."/> <ingreident type="dried chile flakes (preferably pul biber)"/></l>
+<l n="5"> <unit measurement1="1 1⁄2 Tbsp."/> <ingredient type="sweet smoked paprika"/></l>
+<l n="6"> <unit measurement1="1 Tbsp."/> <ingredient type="tomato purée"/></l>
+<l n="7"> <unit measurement1="2 14-oz."/> <ingredient type="cans butter beans or lima beans, drained and rinsed"/></l>
+<l n="8"> <unit measurement1="5 Tbsp."/> <ingredient type="sherry vinegar"/></l>
+<l n="9"> <unit measurement1="300g"/> <unit measurement2="(10 1⁄2-oz.)"/> <ingredient type="jarred piquillo peppers, rinsed and sliced"/></l>
+<l n="10"> <ingredient type="Kosher salt"/></l>
+</ingredientlist>
+<instructionlist> 
+<instruction value="Step 1"/>
+<instruction field="In a wide-based pan over a medium heat, caramelize the red onions in 5 Tbsp. of the olive oil for 15 minutes or until they turn golden and soft. Add a little fine salt, the garlic and spices and continue to cook for 2–3 minutes. Add the tomato purée and cook for another minute."/>
+<instruction value="Step 2"/>
+<instruction field="Add the beans and sherry vinegar and reduce the liquid by half over a medium heat. Turn the heat off. Add the piquillo peppers and the remaining olive oil and season with salt to serve."/>
+</instructionlist>
+
+<source> <source cookbook="From Three: Acid, Texture, Contrast"/> <source author="by Selin Kiazim."/> <source information="Copyright © December 2021 by Selin Kiazim. Excerpted by permission of Quadrille. Buy the book from Amazon or Bookshop."/></source>
+</recipe>
