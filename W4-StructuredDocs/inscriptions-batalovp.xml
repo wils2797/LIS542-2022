@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inscriptions>
+    <inscription>
+        <name>P(ublius) Oppi[us</name>, son of...], of (the tribe of) Camilia, ...cio, of Ravenna, 
+        <identity type="occupation">soldier of the Legio V 5 Macedonica, (of the rank of) optio,</identity> lived 
+        <age>30 years</age>, served in the army nine years (and) is buried here. (His) heir made (this tombstone).
+    </inscription>
+    
+    <inscription>
+        In the Byron vault below 
+        Lie the remains of 
+        <name>Augusta Ada</name>, 
+        <identity type="familial">only daughter of
+            George Gordon Noel, 
+            6th Lord Byron</identity> 
+        and <identity type="familial">wife of 
+            William, Earl of Lovelace</identity>
+        Born <date type="birth">10th Dec 1815 </date>
+        Died <date type="death">27th Nov 1852</date> 
+        <epitaph>R.I.P.</epitaph>
+    </inscription>
+    
+    <inscription>
+        <religious>Sacred to the Memory</religious>
+        of 
+        <identity type="occupation">Capt.</identity> <name>JOSEPH ALGER</name> 
+        who departed this Life 
+        <date type="death">June 21st, 1794</date> 
+        Aged <age>25 Years, 
+            11 Months &amp; 
+            6 Days.</age>
+    </inscription>
+    
+    <inscription>
+        <name>Elizabeth</name>
+        <date type="birth">1870</date> - <date type="death">1952</date>
+    </inscription>
+    
+    <inscription>
+        <quote>WORKERS OF ALL LANDS UNITE</quote>
+        <name id="1">KARL MARX</name>
+        <name id="2">Jenny von Westphalen</name>
+        <identity id="2" type="familial">The beloved wife of Karl Marx</identity>
+        Born <date id="2" type="birth">12th February 1814</date>
+        Died <date id="2" type="death">2nd December 1881</date>
+        and <name id="1">Karl Marx</name>
+        Born <date id="1" type="birth">May 5th 1818</date>,
+        died <date id="1" type="death">March 14th, 1883</date>
+        and <name id="3">Harry Longuet</name>
+        <identity id="3" type="familial">Their Grandson</identity>
+        Born <date id="3" type="birth">July 4th 1878</date>
+        Died <date id="3" type="death">March 20th 1883</date>
+        and <name id="4">Helena Demuth</name>
+        Born <date id="4" type="birth">January 1st 1823</date>
+        Died <date id="4" type="death">November 4th 1890</date>
+        and <name id="5">Eleanor Marx</name>
+        <identity id="5" type="familial">Daughter of Karl Marx</identity>
+        Born <date id="5" type="birth">January 16th 1856</date>
+        Died <date id="5" type="death">March 31st 1898</date>
+    </inscription>
+    <inscription>
+        <headstone>
+            <name>BRUCE LEE</name>
+            <date type="birth">NOV. 27, 1940</date> - 
+            <date type="death">JULY 20, 1973</date>
+            <identity type="occupation">FOUNDER OF JEET KUNE DO</identity>
+        </headstone>
+        <book>
+            <epitaph xml:lang="cn">
+                以無限為有限 <!-- limited by infinity -->
+                以無法為有法 <!-- Rule of law -->
+            </epitaph>
+            <epitaph>YOUR INSPIRATION CONTINUES TO GUIDE US TOWARD OUR PERSONAL LIBERATION</epitaph>
+        </book>
+    </inscription>
+    
+    <inscription>
+        HERE RESTS IN
+        HONORED GLORY
+        <identity type="occupation">AN AMERICAN SOLDIER</identity>
+        KNOWN BUT TO <religious>GOD</religious>
+    </inscription>
+</inscriptions>
